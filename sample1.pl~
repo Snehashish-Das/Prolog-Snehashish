@@ -1,0 +1,9 @@
+male("bill").
+male("sam").
+male("jack").
+male("steve").
+female("jessi").
+female("tina").
+
+parent("bill","sam").
+

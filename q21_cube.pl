@@ -1,0 +1,1 @@
+cube(Number,Cube):-Cube is Number * Number * Number.
